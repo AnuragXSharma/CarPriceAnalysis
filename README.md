@@ -35,4 +35,3 @@ Low-Performance or Smaller Engines: Small 3-cylinder engines reduce the estimate
 **Strategic Action Plan for Dealership:**
 Focus on Trucks and Pickups: These body styles carry robust premiums regardless of brand.
 Manage EV/Gas Inventory Wisely: Diesel and hybrid models hold strong margins, whereas electric vehicles face steep depreciation factors in this dataset.
-Use the $6,000 Baseline: Train your acquisition team to use this automated baseline pricing to avoid overpaying for inventory.
