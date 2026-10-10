@@ -34,6 +34,8 @@ Fuel Type: Diesel vehicles (fuel_diesel) typically carry a high positive premium
 High Mileage (odometer): Odometer has a strong negative coefficient. Every mile added directly chips away at a car's value. Dealers should be wary of high-mileage trade-ins unless they are heavily discounted.
 Title Status Limitations: Vehicles without a clean title (such as title_status_salvage, title_status_rebuilt, or title_status_parts only) have massive negative coefficients. These cars dramatically reduce resale value and turn off the majority of consumers.
 Manual Transmissions: In modern markets, automatic or other advanced transmissions are generally preferred over standard manual options (transmission_manual), which often lower the average selling price of mainstream vehicles.
+
 **Actionable Strategic Summary for Dealers:**
+
 Target Inventory: Maximize profit margins by acquiring newer, low-mileage vehicles with 4WD, diesel engines, or V8 configurations.
 Sourcing Caution: Be extremely cautious when bidding on vehicles with rebuilt/salvage titles or manual transmissions unless they are priced well below trade-in value, as these features severely depress the vehicle's retail potential.
