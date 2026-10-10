@@ -19,7 +19,7 @@ Laso regression
 # Model Evaluation
 We then measure model performance based on MAE & R2 values and found out that Ridge Regression is better suited though though all the values are almost similar. However, under same MAE and R2 score Ridge regression is preferrable due to Overfitting & Multicollinearity Prevention
 
-# Receomendtion & Findings
+# Recommendations & Findings
 Here are the key strategic recommendations we can make to help them optimize their inventory and pricing strategies:
 Business Meaning: The features we tracked (manufacturer, age, odometer mileage, engine cylinders, fuel type, etc.) explain 61.9% of the overall variance in used car prices.
 **Top Drivers Maximizing Vehicle Price (What Consumers Value)**
